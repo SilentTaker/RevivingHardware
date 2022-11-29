@@ -8,9 +8,11 @@ hand-me-down laptop with 2, out of 3, broken USB ports. I plan on repairing it
 and going to the next level. 
 
 ## COMPUTER
-[Acer Aspire E5-521-24PQ] (https://specpro.net/laptops/6279-acer-aspire-e5-521-24pq/)
-    - 1 TB HDD
-    - 15.6 in screen
-    - AMD E2-6110 Processor 1.5GHz
-    - 4 Gigs of RAM (OS eats 1 Gig!?!) Functional RAM is just over 3G
-    - AMD Radeon R2 Graphics
+[Acer Aspire E5-521-24PQ] (https://specpro.net/laptops/6279-acer-aspire-e5-521-24pq/) <br>
+&ensp;&ensp;&ensp;&ensp;- 1 TB HDD <br>
+&ensp;&ensp;&ensp;&ensp;- 15.6 in screen <br>
+&ensp;&ensp;&ensp;&ensp;- AMD E2-6110 Processor 1.5GHz <br>
+&ensp;&ensp;&ensp;&ensp;- 4 Gigs of RAM (OS eats 1 Gig!?!) Functional RAM is just over 3G <br>
+&ensp;&ensp;&ensp;&ensp;- AMD Radeon R2 Graphics
+## CPU Breakdown
+SEE ```hw_out.txt``` FOR ```lshw``` OUTPUT
